@@ -1,0 +1,13 @@
+Oto lista rzeczy, które nale¿y wdro¿yæ na stronie. Bêdzie na bie¿¹co update'owana.
+--------------------------04-29---------------------------
+- Próbne logo
+- Próbny plan layout'u (mam na myœli kolorystykê)
+- Lepsza optymalizacja widgetów
+- Przetestowanie widgetu nadchodz¹cych meczy (na prawid³owych, pe³nych danych)
+- Przetestowanie widgetu sliderowego
+- Menu bar front-top z takimi pozycjami jak: strona g³ówna, forum, poradniki, obstawianie, video (mo¿liwe, ¿e o czymœ zapomnia³em)
+- Deafultowe logo newsów w sliderze
+- Poradniki video + tekst do CS'a
+- Pomys³y na serie artyku³ów (obok zwyczajnych newsów)
+-----------------------------------------------------------
+ 
