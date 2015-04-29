@@ -1,13 +1,15 @@
-Oto lista rzeczy, które nale¿y wdro¿yæ na stronie. Bêdzie na bie¿¹co update'owana.
+Oto lista rzeczy, ktÃ³re naleÅ¼y wdroÅ¼yÄ‡ na stronie. BÄ™dzie na bieÅ¼Ä…co update'owana.
+* - moÅ¼e byÄ‡ wykonywane przez kilka osÃ³b jednoczesnie,
+** - moÅ¼e byÄ‡ wykonywane przez kilka osÃ³b jednoczesnie, ale naleÅ¼y wczesniej wybraÄ‡ konkretne widgety do optymalizacji,
 --------------------------04-29---------------------------
-- Próbne logo
-- Próbny plan layout'u (mam na myœli kolorystykê)
-- Lepsza optymalizacja widgetów
-- Przetestowanie widgetu nadchodz¹cych meczy (na prawid³owych, pe³nych danych)
+- PrÃ³bne logo ## MG ##
+- PrÃ³bny plan layout'u (mam na myÅ›li kolorystykÄ™) ## MG ##
+- Lepsza optymalizacja widgetÃ³w**
+- Przetestowanie widgetu nadchodzÄ…cych meczy (na prawidÅ‚owych, peÅ‚nych danych)
 - Przetestowanie widgetu sliderowego
-- Menu bar front-top z takimi pozycjami jak: strona g³ówna, forum, poradniki, obstawianie, video (mo¿liwe, ¿e o czymœ zapomnia³em)
-- Deafultowe logo newsów w sliderze
-- Poradniki video + tekst do CS'a
-- Pomys³y na serie artyku³ów (obok zwyczajnych newsów)
+- Menu bar front-top z takimi pozycjami jak: strona gÅ‚Ã³wna, forum, poradniki, obstawianie, video (moÅ¼liwe, Å¼e o czymÅ› zapomniaÅ‚em)
+- Deafultowe logo newsÃ³w w sliderze ## MG ##
+- Poradniki video + tekst do CS'a* ## MG ##
+- PomysÅ‚y na serie artykuÅ‚Ã³w* (obok zwyczajnych newsÃ³w) ## MG ##
 -----------------------------------------------------------
  
