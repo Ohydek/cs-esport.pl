@@ -1,11 +1,12 @@
 
 
-Otwieram wszystko na GitHubie, ¿eby ³atwiej by³o nam siê zgraæ i zrozumieæ co w jakiej kolejnoœci powsta³o i dlaczego.
+Otwieram wszystko na GitHubie, Å¼eby Å‚atwiej byÅ‚o nam siÄ™ zgraÄ‡ i zrozumieÄ‡ co w jakiej kolejnoÅ›ci powstaÅ‚o i dlaczego.
 Polecam przeczytanie pliku readme!
 
 ##2015-04-29## CHANGELOG
 
-- Przerzucenie siê na wordpressa,
-- Testowanie widget'u do zbli¿aj¹cych siê meczy,
-- Testowanie widget'u do slidera newsów,
-- Stworzenie pliku TO DO (wiêcej info w pliku),
+- Przerzucenie siÄ™ na wordpressa,
+- Testowanie widget'u do zbliÅ¼ajÄ…cych siÄ™ meczy,
+- Testowanie widget'u do slidera newsÃ³w,
+- Stworzenie pliku TO DO (wiÄ™cej info w pliku),
+- Åukasz gotowy na szystko 
