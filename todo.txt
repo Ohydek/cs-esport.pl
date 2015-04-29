@@ -1,9 +1,9 @@
-Oto lista rzeczy, które należy wdrożyć na stronie. Będzie na bieżąco update'owana.
+﻿Oto lista rzeczy, które należy wdrożyć na stronie. Będzie na bieżąco update'owana.
 * - może być wykonywane przez kilka osób jednoczesnie,
 ** - może być wykonywane przez kilka osób jednoczesnie, ale należy wczesniej wybrać konkretne widgety do optymalizacji,
---------------------------04-29---------------------------
-- Próbne logo ## MG ##
-- Próbny plan layout'u (mam na myśli kolorystykę) ## MG ##
+--------------------------04-29-----------------------------------------------------------------------------------------------------------------
+- Próbne logo ## MG #|# ŁP ## 
+- Próbny plan layout'u (mam na myśli kolorystykę) ## MG #|# ŁP ##
 - Lepsza optymalizacja widgetów**
 - Przetestowanie widgetu nadchodzących meczy (na prawidłowych, pełnych danych)
 - Przetestowanie widgetu sliderowego
@@ -11,5 +11,9 @@ Oto lista rzeczy, które należy wdrożyć na stronie. Będzie na bieżąco upda
 - Deafultowe logo newsów w sliderze ## MG ##
 - Poradniki video + tekst do CS'a* ## MG ##
 - Pomysły na serie artykułów* (obok zwyczajnych newsów) ## MG ##
------------------------------------------------------------
+- Format układanych newsów pod sliderem, do wymyślenia i wdrożenia
+- Galeria najlepiej ocenianych/najczęściej wyświetlanych filmików z różnych kategorii (poradniki/frag movie etc.) po prawej stronie
+- Implementacja systemu podliczania punktów w obstawianiu przez użytkowników serwisu (czyli, Sławek obstawia sobie wyniki meczów w specjalnym//
+widgecie, system podlicza mu ile razy miał racje, a ile razy się pomylił, pod koniec miesiąca reset licznika)
+------------------------------------------------------------------------------------------------------------------------------------------------
  
