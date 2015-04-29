@@ -6,8 +6,8 @@
 - Próbny plan layout'u (mam na myśli kolorystykę) ## MG #|# ŁP ##
 - Lepsza optymalizacja widgetów**
 - Przetestowanie widgetu nadchodzących meczy (na prawidłowych, pełnych danych)
-- Przetestowanie widgetu sliderowego
-- Menu bar front-top z takimi pozycjami jak: strona główna, forum, poradniki, obstawianie, video (możliwe, że o czymś zapomniałem) ## MG ##
+//- Przetestowanie widgetu sliderowego ## MG ##
+//- Menu bar front-top z takimi pozycjami jak: strona główna, forum, poradniki, obstawianie, video (możliwe, że o czymś zapomniałem) ## MG ##
 - Deafultowe logo newsów w sliderze ## MG ##
 - Poradniki video + tekst do CS'a* ## MG ##
 - Format układanych newsów pod sliderem, do wymyślenia i wdrożenia
